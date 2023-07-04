@@ -7,8 +7,8 @@
    - https://www.google.co.kr/chrome
 - Alfred
   - https://www.alfredapp.com/
-- iTerm2
-  - https://iterm2.com/
+- Warp
+  - https://www.warp.dev/
 - Homebrew
   - https://brew.sh/index_ko
 - SDKMAN
