@@ -24,6 +24,8 @@
    - Java 1.8, Java 11, Java 17 설치
    - `sdk list java`: 설치 가능한 Java 목록
    - `sdk install java {Identifier}`: 해당 Java 버전 설치
+- Maven
+   - `brew install maven`
 
 ---
 
