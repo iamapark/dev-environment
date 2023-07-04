@@ -74,12 +74,6 @@
 
 ---
 
-### Maven
-
- - `brew install maven`
-
----
-
 ### Git
 
  - Sourcetree
@@ -87,5 +81,10 @@
  - Github Desktop
    - https://desktop.github.com/
 
+---
 
+### 기타
+
+ - Owly
+   - https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12
 
