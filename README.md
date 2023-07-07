@@ -85,10 +85,8 @@
 
 ### Etc
 
- - https://github.com/exelban/stats
-
-### 기타
-
+ - Stats
+    - https://github.com/exelban/stats
  - Owly
-   - https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12
+    - https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12
 
