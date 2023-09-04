@@ -5,8 +5,8 @@
 
 - Chrome
    - https://www.google.co.kr/chrome
-- Alfred
-  - https://www.alfredapp.com/
+- Raycast
+  - https://www.raycast.com/
 - Warp
   - https://www.warp.dev/
 - Homebrew
