@@ -21,7 +21,7 @@
 ### Java
 
  - SDKMAN
-   - Java 1.8, Java 11, Java 17 설치
+   - Install JDK 1.8, 11, 17, 21
    - `sdk list java`: 설치 가능한 Java 목록
    - `sdk install java {Identifier}`: 해당 Java 버전 설치
 - Maven
@@ -33,7 +33,8 @@
 
  - tmux
    - `brew install tmux`
- - aws
+   - [Shortcuts & Cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+ - aws cli
    - [Installation guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    - `aws configure`: Access key와 Secret key 설치
  - gh
@@ -66,11 +67,9 @@
      - https://github.com/iamapark/IntelliJ-setting
      - Github access token 발급 후 연결
      - Overwrite local
- - nvim
-   - `brew install neovim`
-   - `brew install ripgrep`: telescope plugin 사용하기 위해 필요
-   - `~/.config/nvim`
-     - [nvim 설정 파일 repo](https://github.com/josean-dev/dev-environment-files/tree/main/.config/nvim/lua/josean)
+ - Fleet
+   - Fast and lightweight text editor
+   - [Download](https://www.jetbrains.com/fleet/download/)
 
 ---
 
@@ -89,4 +88,8 @@
     - https://github.com/exelban/stats
  - Owly
     - https://apps.apple.com/us/app/owly-prevent-display-sleep/id882812218?mt=12
+ - Medis
+    - [Mordern GUI for Redis](https://getmedis.com/)
+ - Obsidian
+    - https://obsidian.md/
 
