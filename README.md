@@ -29,6 +29,13 @@
 
 ---
 
+### Python
+
+ - Anaconda
+   - https://www.anaconda.com/download/
+
+---
+
 ### Terminal
 
  - tmux
