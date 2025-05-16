@@ -74,9 +74,9 @@
      - https://github.com/iamapark/IntelliJ-setting
      - Github access token 발급 후 연결
      - Overwrite local
- - Fleet
-   - Fast and lightweight text editor
-   - [Download](https://www.jetbrains.com/fleet/download/)
+ - Cursor
+  - AI IDE tool
+  - https://www.cursor.com/downloadss
 
 ---
 
